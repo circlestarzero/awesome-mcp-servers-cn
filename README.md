@@ -167,6 +167,8 @@
 | [alipay](https://github.com/nicholasoxford/alipay-mcp) | 支付宝支付 | ✅ | `pip install alipay-mcp` |
 | [zhipu](https://github.com/nicholasoxford/zhipu-mcp) | 智谱 AI（GLM） | ✅ | `pip install zhipu-mcp` |
 
+| [Doc2X MCP](https://github.com/NoEdgeAI/doc2x-mcp) | PDF/图片解析、文档导出与版面 JSON；MIT 开源 stdio 服务，API 按量计费 | ⚠️ 需自备 Doc2X API Key（未实测调用） | `npx -y @noedgeai-org/doc2x-mcp` |
+
 > 🚧 中国生态 MCP 服务器还在快速发展中。如果你知道更多，请提交 PR！
 
 ---
